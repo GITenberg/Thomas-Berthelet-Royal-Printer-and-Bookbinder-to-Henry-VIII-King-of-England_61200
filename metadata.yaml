@@ -1,0 +1,37 @@
+_repo: Thomas-Berthelet-Royal-Printer-and-Bookbinder-to-Henry-VIII-King-of-England_61200
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Griggs, William
+    alias: Griggs, W. (William)
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '51316'
+    url: http://www.gutenberg.org/2009/agents/51316
+    wikipedia: https://en.wikipedia.org/wiki/William_Griggs_(inventor)
+creator:
+  author:
+    agent_name: Davenport, Cyril
+    alias: Davenport, Cyril James Humphries
+    birthdate: 1848
+    deathdate: 1941
+    gutenberg_agent_id: '7474'
+    url: http://www.gutenberg.org/2009/agents/7474
+description: ''
+gutenberg_issued: '2020-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61200'
+  lccn: 02000992
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding -- England -- History -- 16th century'
+- !lcc 'Z'
+- !lcsh 'Berthelet, Thomas, -approximately 1556'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Biography'
+- GITenberg
+title: Thomas Berthelet, Royal Printer and Bookbinder to Henry VIII., King of England
+url: http://www.gutenberg.org/ebooks/61200
